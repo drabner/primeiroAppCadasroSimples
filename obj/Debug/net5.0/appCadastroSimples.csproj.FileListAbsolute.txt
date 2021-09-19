@@ -1,0 +1,16 @@
+C:\Users\Iraci\Desktop\appCadastroSimples\bin\Debug\net5.0\appCadastroSimples.exe
+C:\Users\Iraci\Desktop\appCadastroSimples\bin\Debug\net5.0\appCadastroSimples.deps.json
+C:\Users\Iraci\Desktop\appCadastroSimples\bin\Debug\net5.0\appCadastroSimples.runtimeconfig.json
+C:\Users\Iraci\Desktop\appCadastroSimples\bin\Debug\net5.0\appCadastroSimples.runtimeconfig.dev.json
+C:\Users\Iraci\Desktop\appCadastroSimples\bin\Debug\net5.0\appCadastroSimples.dll
+C:\Users\Iraci\Desktop\appCadastroSimples\bin\Debug\net5.0\ref\appCadastroSimples.dll
+C:\Users\Iraci\Desktop\appCadastroSimples\bin\Debug\net5.0\appCadastroSimples.pdb
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.csproj.AssemblyReference.cache
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.AssemblyInfoInputs.cache
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.AssemblyInfo.cs
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.dll
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\ref\appCadastroSimples.dll
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.pdb
+C:\Users\Iraci\Desktop\appCadastroSimples\obj\Debug\net5.0\appCadastroSimples.genruntimeconfig.cache
